@@ -4,6 +4,8 @@ Study Ease is designed to help students by providing free study notes. It consis
 
 Deployed URL: [Play Store](https://play.google.com/store/apps/details?id=com.sushant.studyease)
 
+<b>Important:</b> This documentation is still under developement.
+
 <br>
 
 ### Technologies Used
