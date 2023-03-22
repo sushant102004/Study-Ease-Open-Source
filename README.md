@@ -1,8 +1,8 @@
-## Study-Ease
+## Study-Ease 🔥
 
 Study Ease is designed to help students by providing free study notes. It consists of free educational material for engineering students. You can easily search topic-wise notes, or you can also upload your own notes if you want. You can also browse and join several technical events that are going on and join them.
 
-Deployed URL: [Play Store](https://play.google.com/store/apps/details?id=com.sushant.studyease)
+🚀 Deployed URL: [Play Store](https://play.google.com/store/apps/details?id=com.sushant.studyease)
 
 <b>Important:</b> This documentation is still under developement.
 
